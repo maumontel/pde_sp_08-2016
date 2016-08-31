@@ -1,5 +1,7 @@
 import processing.serial.*;
 
+// projeto convertido de procedural para objeto
+
 Quadra squash;
 
 float x = 150;
